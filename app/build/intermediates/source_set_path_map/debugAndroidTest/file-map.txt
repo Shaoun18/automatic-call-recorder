@@ -1,0 +1,4 @@
+com.shaoun.callrecorder.test.app-androidTest-0 C:\Users\echoa\Downloads\CallRecorder_Shaoun\CallRecorder\app\build\generated\res\resValues\androidTest\debug
+com.shaoun.callrecorder.test.app-mergeDebugAndroidTestResources-1 C:\Users\echoa\Downloads\CallRecorder_Shaoun\CallRecorder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.shaoun.callrecorder.test.app-mergeDebugAndroidTestResources-2 C:\Users\echoa\Downloads\CallRecorder_Shaoun\CallRecorder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.shaoun.callrecorder.test.app-merged_res-3 C:\Users\echoa\Downloads\CallRecorder_Shaoun\CallRecorder\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="accessibility_service_label">Call Recorder – VoIP Detection</string>
+    <string name="accessibility_service_description">Detects when WhatsApp, Viber, or Imo calls are active so recordings can start automatically. No call content is accessed through accessibility.</string>
+</resources>

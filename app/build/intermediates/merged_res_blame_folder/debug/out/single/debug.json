@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\drawable_indicator_active.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\drawable\\indicator_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\layout_item_recording.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\layout\\item_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\drawable_indicator_inactive.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\drawable\\indicator_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\drawable_ic_recording.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\drawable\\ic_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.shaoun.callrecorder.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.shaoun.callrecorder.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-merged_res-32:\\layout_activity_recordings.xml.flat",
+        "source": "C:\\Users\\echoa\\.gradle\\daemon\\8.2\\com.shaoun.callrecorder.app-main-34:\\layout\\activity_recordings.xml"
+    }
+]

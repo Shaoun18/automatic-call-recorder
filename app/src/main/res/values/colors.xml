@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0F0F1A</color>
+    <color name="surface">#1A1A2E</color>
+    <color name="card">#16213E</color>
+    <color name="accent">#4FC3F7</color>
+    <color name="accent_dim">#1A3A4A</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#90A4AE</color>
+    <color name="active_green">#4CAF50</color>
+    <color name="inactive_red">#F44336</color>
+    <color name="whatsapp">#25D366</color>
+    <color name="viber">#7360F2</color>
+    <color name="imo">#0089CF</color>
+</resources>
